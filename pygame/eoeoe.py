@@ -70,3 +70,4 @@ while start == "ja":
     while i == True:
       start = input("något blev fel ville du spela vidare?").lower()
       i = False
+      print("hej")
